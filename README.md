@@ -1,7 +1,8 @@
-<div align="center">
+<img width="1536" height="641" alt="image" src="https://github.com/user-attachments/assets/8f466fd2-9015-411b-b21b-87a191189c63" /><div align="center">
 <h1 align="center">Hola, soy <a href="">Jonatan Fernandez</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/jonatan-ti-o2ecoO6">
+<img src="https://i.imgur.com/4S1MeWS.jpeg">
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
