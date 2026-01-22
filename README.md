@@ -57,6 +57,5 @@ https://www.youtube.com/@jonatanfernandez4309
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
 </p>
